@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- ⏳ Pós-Graduação: Inteligência Artificial ( Cursando )<br>- 📚 Graduação: Ciência da Computação<br>- 🛠️ Técnico: Técnico em Informática</p>
+<p align="left">- ⏳ Pós-Graduação: Inteligência Artificial<br>- 📚 Graduação: Ciência da Computação<br>- 🛠️ Técnico: Técnico em Informática</p>
 
 ###
 
