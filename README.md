@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-End, desde 2017, apaixonado por criar interfaces modernas, funcionais e responsivas.  <br><br>- 🔭 Atualmente trabalhando com Angular 2+<br>- 📚 Estudando React<br>- 🎯 Planos para iniciar estudos de backend esse ano</p>
+<p align="left">Desenvolvedor Front-End, desde 2017, apaixonado por criar interfaces modernas, funcionais e responsivas.  <br><br>- 🔭 Atualmente trabalhando com Angular 2+<br>- 📚 Estudando NodeJS<br>
 
 ###
 
